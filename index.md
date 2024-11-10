@@ -31,9 +31,9 @@
         </nav>
       </div><!-- end header -->
 
-  <div class="wrapper">
+    <div class="wrapper">
 
-  <section>
+      <section>
         <div id="title">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
           <p>{{ site.description | default: site.github.project_tagline }}</p>
@@ -42,9 +42,10 @@
           <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
         </div>
 
- 
+        {{ content }}
 
-  </section>
+      </section>
+
     </div>
   </body>
 </html>
