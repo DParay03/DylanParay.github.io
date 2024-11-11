@@ -18,4 +18,5 @@ This section contains projects that reflect what I learn from my certifications.
 
 # Other Projects
 
-</hr>
+
+<hr />
