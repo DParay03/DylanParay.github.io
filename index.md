@@ -1,10 +1,8 @@
 # Projects Corresponding To My Certifications:
 <p>
-  This section contains projects that reflect what I learn from my certifications.<br />
-  They aim to provide practical expereince to what I theoretically learn from my studies. <br /> 
+  This section contains projects that reflect what I learned from my certifications.<br />
+  They aim to provide practical experience to what I theoretically learn from my studies. <br /> 
 </p>
-This section contains projects that reflect what I learn from my certifications.
-* They aim to provide practical expereince to what I theoretically learn from my studies.
 
 
 ## Projects relate to A+
