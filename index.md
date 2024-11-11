@@ -1,12 +1,8 @@
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+# Projects Corresponding To My Certifications
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+This section contains projects that reflect what I learn from my certifications. They aim to provide practical expereince to what I theoretically learn from my studies.
 
 ## Header 2
 
