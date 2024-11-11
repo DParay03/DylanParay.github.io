@@ -17,3 +17,5 @@ This section contains projects that reflect what I learn from my certifications.
 ## Projects related to SC-900
 
 # Other Projects
+
+</hr>
