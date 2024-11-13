@@ -4,19 +4,19 @@
   They aim to provide practical experience to what I learn from my studies. <br /> 
 </p>
 
-## Projects related to CompTIA A+:
+## CompTIA A+:
 
-## Projects related to CompTIA Net+:
+## CompTIA Net+:
 
-## Projects related to CompTIA Sec+:
+##  CompTIA Sec+:
 
-## Projects related to CompTIA CySA+:
+## CompTIA CySA+:
 
-## Projects related to CompTIA Linux+
+## CompTIA Linux+
 
-## Projects related to Microsoft AZ-900:
+## Microsoft AZ-900:
 
-## Projects related to Microsoft SC-900:
+## Microsoft SC-900:
 
 ## Projects non-related to certification:
 
