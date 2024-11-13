@@ -4,24 +4,21 @@
   They aim to provide practical experience to what I learn from my studies. <br /> 
 </p>
 
-## Projects relate to A+
+## Projects relate to CompTIA A+:
 
-## Projects related to Net+
+## Projects related to CompTIA Net+:
 
-## Projects related to Sec+
+## Projects related to CompTIA Sec+:
 
-## Projects related to CySA+
+## Projects related to CompTIA CySA+:
 
-## Projects related to Linux+
+## Projects related to CompTIA Linux+
 
-## Projects related to AZ-900
+## Projects related to Microsoft AZ-900:
 
-## Projects related to SC-900
+## Projects related to Microsoft SC-900:
 
-# Other Projects
-<p>
-  This section contains projects that do not reflect what I learned from my certification. <br />
-  They aim to demonstrate knowledge of common-use technologies/tools not necessarily covered in standardized exams. <br />
-</p>
+## Projects non-related to certification:
+
 
 <hr />
