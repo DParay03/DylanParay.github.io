@@ -21,4 +21,4 @@
 ## Projects non-related to certification:
 
 <div style="background:rgba(0, 0, 0, 0.1); width: 150%; border-bottom: 
-  1px dashed #b5e853; padding: 20px 0; margin: 40px 0 0 0;"></div>
+  1px dashed #b5e853; margin: 40px 0 0 0;"></div>
