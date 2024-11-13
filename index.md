@@ -21,4 +21,6 @@
 ## Projects non-related to certification:
 
 
-<hr />
+<div>
+  <hr style width: 100%/>
+</div>
