@@ -4,7 +4,7 @@
   They aim to provide practical experience to what I learn from my studies. <br /> 
 </p>
 
-## Projects relate to CompTIA A+:
+## Projects related to CompTIA A+:
 
 ## Projects related to CompTIA Net+:
 
