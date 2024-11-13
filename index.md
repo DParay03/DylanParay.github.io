@@ -5,20 +5,26 @@
 </p>
 
 ## CompTIA A+:
+[Link to A+ Repository](./https://github.com/DParay03/CompTIA.A)
 
 ## CompTIA Net+:
+[Link to Net+ Repository](./https://github.com/DParay03/CompTIA.Net)
 
 ##  CompTIA Sec+:
+[Link to Sec+ Repository](./https://github.com/DParay03/CompTIA.Sec)
 
 ## CompTIA CySA+:
+[Link to CySA+ Repository](./https://github.com/DParay03/CompTIA.CySA)
 
 ## CompTIA Linux+
+[Link to Linux+ Repository](./https://github.com/DParay03/CompTIA.Linux)
 
 ## Microsoft AZ-900:
+[Link to AZ-900+ Repository](./https://github.com/DParay03/Microsoft.AZ-900)
 
 ## Microsoft SC-900:
+[Link to SC-900+ Repository](./https://github.com/DParay03/Microsoft.SC-900)
 
 ## Projects non-related to certification:
+[Link to SC-900+ Repository](.https://github.com/DParay03/Non-related))
 
-
-<hr />
