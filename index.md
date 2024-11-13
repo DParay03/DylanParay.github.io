@@ -22,5 +22,5 @@
 
 
 <div>
-  <hr style width: 100%/>
+  <hr style width: 100%;/>
 </div>
