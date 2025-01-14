@@ -5,7 +5,7 @@
 </p>
 
 ## CompTIA A+:
-[Link to A+ Repository](./A+)
+[Link to A+ Repository](https://github.com/DParay03/DylanParay.github.io/blob/main/A+)
 
 ## CompTIA Net+:
 [Link to Net+ Repository](https://github.com/DParay03/CompTIA.Net)
