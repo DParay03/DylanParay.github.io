@@ -5,7 +5,7 @@
 </p>
 
 ## CompTIA A+:
-[Link to A+ Repository](./A+/Index.md)
+[Link to A+ Repository](./A+/index.md)
 
 ## CompTIA Net+:
 [Link to Net+ Repository](https://github.com/DParay03/CompTIA.Net)
