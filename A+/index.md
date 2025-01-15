@@ -8,7 +8,7 @@ This project focuses on building my gaming PC, demostrating much of the knowlege
 
 Parts used to create gaming PC:
 
-<img src="./pc-Images/pc-Part-List.png" alt="PC parts used">
+<img src="./pc-Images/part-List.png" alt="PC parts used">
 
 
 
