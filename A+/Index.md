@@ -4,6 +4,5 @@
 
 ## Project One: Building a PC
 
-This project focuses on building my gaming PC, representative of many of the objectives cover in the Core 1 part of the exam.
-
+This project focuses on building my gaming PC, demostratring much of the knowlege gain in Core 1 (220-1101).
 
