@@ -1,4 +1,4 @@
-<div>
+
 # Projects Corresponding To My Certifications:
   
   This section contains projects that reflect what I learned from my certifications.
@@ -28,5 +28,3 @@
 
 ## Projects non-related to certification:
 [Link to SC-900+ Repository](https://github.com/DParay03/Non-related)
-
-</div>
