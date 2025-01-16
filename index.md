@@ -28,3 +28,11 @@
 
 ## Projects non-related to certification:
 [Link to SC-900+ Repository](https://github.com/DParay03/Non-related)
+
+
+### Contact Information/Resume
+
+| Gmail        | Linkedin          | Phone Number | Resume |
+|:-------------|:------------------|:------|:-------|
+| ok           | good swedish fish | nice  |  ssss |
+
