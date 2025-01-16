@@ -1,8 +1,9 @@
+<div>
 # Projects Corresponding To My Certifications:
-<p>
-  This section contains projects that reflect what I learned from my certifications.<br />
-  They aim to provide practical experience to what I learn from my studies. <br /> 
-</p>
+  
+  This section contains projects that reflect what I learned from my certifications.
+  
+  They aim to provide practical experience to what I learn from my studies. 
 
 ## CompTIA A+:
 [Link to A+ Repository](./A+/index.md)
@@ -28,3 +29,4 @@
 ## Projects non-related to certification:
 [Link to SC-900+ Repository](https://github.com/DParay03/Non-related)
 
+</div>
