@@ -31,17 +31,14 @@
 
 
 ### Contact Information/Resume
-<ul>
-  <li><a href="https://www.facebook.com" target="_blank">
+<a href="https://www.facebook.com" target="_blank">
   <img src="facebook-icon.png" alt="Facebook"></a>
-  </li>
-  <li><a href="https://www.facebook.com" target="_blank">
+  
+  <a href="https://www.facebook.com" target="_blank">
   <img src="facebook-icon.png" alt="Facebook"></a>
-  </li>
-  <li><a href="https://www.facebook.com" target="_blank">
+  
+  <a href="https://www.facebook.com" target="_blank">
   <img src="facebook-icon.png" alt="Facebook"></a>
-  </li>
-</ul>
 
 |         | Linkedin          | Phone Number | Resume |
 |:-------------|:------------------|:------|:-------|
