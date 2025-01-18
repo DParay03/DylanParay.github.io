@@ -31,15 +31,17 @@
 
 
 ### Contact Information/Resume
-<a href="https://www.facebook.com" target="_blank">
-  <img src="facebook-icon.png" alt="Facebook">
-</a>
-        <a href="https://www.twitter.com" target="_blank">
-            <img src="twitter-icon.png" alt="Twitter">
-        </a>
-        <a href="https://www.instagram.com" target="_blank">
-            <img src="instagram-icon.png" alt="Instagram">
-        </a>
+<ul>
+  <li><a href="https://www.facebook.com" target="_blank">
+  <img src="facebook-icon.png" alt="Facebook"></a>
+  </li>
+  <li><a href="https://www.facebook.com" target="_blank">
+  <img src="facebook-icon.png" alt="Facebook"></a>
+  </li>
+  <li><a href="https://www.facebook.com" target="_blank">
+  <img src="facebook-icon.png" alt="Facebook"></a>
+  </li>
+</ul>
 
 |         | Linkedin          | Phone Number | Resume |
 |:-------------|:------------------|:------|:-------|
