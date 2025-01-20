@@ -12,7 +12,7 @@
 <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png" alt="Linkedin Account" width="40" height="40"></a>
   
 <a href="mailto: Dylan.Paray19@gmail.com" target="_blank">
-<img src="https://th.bing.com/th/id/R.37770556001286e8549ef53ec81075d8?rik=aAH4YPcujhq5jw&pid=ImgRaw&r=0" alt="Gmail Account" width="40 height="40"></a>
+<img src="https://th.bing.com/th/id/R.37770556001286e8549ef53ec81075d8?rik=aAH4YPcujhq5jw&pid=ImgRaw&r=0" alt="Gmail Account" width="40" height="40"></a>
 
 <a href="https://www.facebook.com" target="_blank">
 <img src="facebook-icon.png" alt="Facebook"></a>
