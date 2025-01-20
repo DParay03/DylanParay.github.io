@@ -1,34 +1,11 @@
-
-# Projects Corresponding To My Certifications:
+# Objective of this portfolio Portfilio:
   
-  This section contains projects that reflect what I learned from my certifications.
+  This portfolio contains projects that reflect what I learned from my studies.
   
-  They aim to provide practical experience to what I learn from my studies. 
+  They aim to build practical knowledge on top of my theoretical knowlege. 
 
-## CompTIA A+:
+## Project 1: Building my Gaming PC:
 [Link to A+ Repository](./A+/index.md)
-
-## CompTIA Net+:
-[Link to Net+ Repository](https://github.com/DParay03/CompTIA.Net)
-
-##  CompTIA Sec+:
-[Link to Sec+ Repository](https://github.com/DParay03/CompTIA.Sec)
-
-## CompTIA CySA+:
-[Link to CySA+ Repository](https://github.com/DParay03/CompTIA.CySA)
-
-## CompTIA Linux+
-[Link to Linux+ Repository](https://github.com/DParay03/CompTIA.Linux)
-
-## Microsoft AZ-900:
-[Link to AZ-900+ Repository](https://github.com/DParay03/Microsoft.AZ-900)
-
-## Microsoft SC-900:
-[Link to SC-900+ Repository](https://github.com/DParay03/Microsoft.SC-900)
-
-## Projects non-related to certification:
-[Link to SC-900+ Repository](https://github.com/DParay03/Non-related)
-
 
 ### Contact Information/Resume
 <a href="https://www.facebook.com" target="_blank">
@@ -39,8 +16,3 @@
   
   <a href="https://www.facebook.com" target="_blank">
   <img src="facebook-icon.png" alt="Facebook"></a>
-
-|         | Linkedin          | Phone Number | Resume |
-|:-------------|:------------------|:------|:-------|
-| ok           | good swedish fish | nice  |  ssss |
-
