@@ -5,7 +5,7 @@
   They aim to build practical knowledge on top of my theoretical knowlege. 
 
 ## Project 1: Building my Gaming PC
-[Link to A+ Repository](./A+/index.md)
+[Link to Project One Page](./Project-1/index.md)
 
 ### Contact Information
 <a href="https://www.linkedin.com/in/dylanparay/" target="_blank">
