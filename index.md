@@ -7,7 +7,7 @@
 ## Project 1: Building my Gaming PC
 [Link to A+ Repository](./A+/index.md)
 
-### Contact Information/Resume
+### Contact Information
 
 <a href="https://www.linkedin.com/in/dylanparay/" target="_blank">
 <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="Linkedin Account" width= 40 height= 40></a>
@@ -17,4 +17,8 @@
 
 <a href="https://www.facebook.com" target="_blank">
 <img src="facebook-icon.png" alt="Facebook"></a>
+
+<a href="tel: +15164258830" target="_blank">
+<img src="https://img.icons8.com/?size=100&id=WV326xpsBMyb&format=png&color=000000" alt="1(516)-425-8830"></a>
+
 
