@@ -8,7 +8,7 @@
 [Link to A+ Repository](./A+/index.md)
 
 ### Contact Information/Resume
-<a href="https://www.facebook.com" target="_blank">
+<a href="https://www.linkedin.com/in/dylanparay/" target="_blank">
   <img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png" alt="Linkedin" width="200" height="200"></a>
   
   <a href="https://www.facebook.com" target="_blank">
