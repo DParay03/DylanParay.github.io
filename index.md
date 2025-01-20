@@ -15,7 +15,4 @@
 <a href="mailto: Dylan.Paray19@gmail.com" target="_blank">
 <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" alt="Gmail Account" width= 40 height= 40></a>
 
-<a href="tel:+15164258830" target="_blank">
-<img src="https://img.icons8.com/?size=100&id=WV326xpsBMyb&format=png&color=000000" alt="1(516)-425-8830" width= 40 height= 40></a>
-
 
