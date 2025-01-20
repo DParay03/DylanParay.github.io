@@ -9,7 +9,9 @@
 
 ### Contact Information/Resume
 <a href="https://www.linkedin.com/in/dylanparay/" target="_blank">
-<i class="fa fa-twitter" aria-hidden="true"></i>
+<i class="fa fa-twitter" aria-hidden="true">
+  ::before
+</i>
 </a>
   
 <a href="mailto: Dylan.Paray19@gmail.com" target="_blank">
