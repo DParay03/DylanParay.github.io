@@ -8,11 +8,9 @@
 [Link to A+ Repository](./A+/index.md)
 
 ### Contact Information/Resume
+
 <a href="https://www.linkedin.com/in/dylanparay/" target="_blank">
-<i class="fa fa-twitter" aria-hidden="true">
-  ::before
-</i>
-</a>
+<img src="https://th.bing.com/th/id/R.a330e248626552a23af35e5c46526234?rik=DZhkgnpER0YViQ&riu=http%3a%2f%2fpngimg.com%2fuploads%2flinkedIn%2flinkedIn_PNG8.png&ehk=4bFzIDABrAypqOis7809R99fdbUW93GC4XfvnNxZfdA%3d&risl=&pid=ImgRaw&r=0" alt="Linkedin Account" width="40" height="40"></a>
   
 <a href="mailto: Dylan.Paray19@gmail.com" target="_blank">
 <img src="https://www.pngall.com/wp-content/uploads/12/Gmail-Logo-PNG-Photo.png" alt="Gmail Account" width="40" height="40"></a>
