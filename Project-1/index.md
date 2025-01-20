@@ -1,7 +1,7 @@
 # Project 1: Building my Gaming PC
 
 ## Description:
-This project aims to demostrate my hardware and troubleshooting knowledge.
+This project aims to demostrate my hardware, software, OS installation, and troubleshooting knowledge.
 
 This project will present the major steps needed to build a PC via screenshots.
 
