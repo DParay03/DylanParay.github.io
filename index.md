@@ -9,7 +9,8 @@
 
 ### Contact Information/Resume
 <a href="https://www.linkedin.com/in/dylanparay/" target="_blank">
-<img src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png" alt="Linkedin Account" width="40" height="40"></a>
+<i class="fa fa-twitter" aria-hidden="true"></i>
+</a>
   
 <a href="mailto: Dylan.Paray19@gmail.com" target="_blank">
 <img src="https://www.pngall.com/wp-content/uploads/12/Gmail-Logo-PNG-Photo.png" alt="Gmail Account" width="40" height="40"></a>
