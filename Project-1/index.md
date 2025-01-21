@@ -24,7 +24,7 @@ This project will present some of the steps I took to build the PC via screensho
 
 <img src="./Imgs/installing-motherboard-to-case.jpg" alt="Installing Motherboard to the Case" width="500" height="500" style="position: relative; left: 23%;">
 
-<h2 style="text-align: center">Installing Cooling Workstation</h2>
+<h2 style="text-align: center">Installing Cooling</h2>
 
 <img src="./Imgs/installing-cooling.jpg" alt="Instaling Cooling" width="500" height="500" style="position: relative; left: 23%;">
 
