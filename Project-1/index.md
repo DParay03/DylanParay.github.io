@@ -26,7 +26,7 @@ This project will present some of the steps I took to build the PC via screensho
 
 ## Installing the Cooling
 
-<img src= "./Imgs/installing= cooling.jpg" alt = "Installing CPU Cooling" width= 300 height= 300>\
+<img src= "./Imgs/installing-cooling.jpg" alt = "Installing CPU Cooling" width= 300 height= 300>
 
 ## Installing the RAM
 
