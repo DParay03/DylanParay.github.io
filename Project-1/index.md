@@ -41,7 +41,6 @@ I learn to install all of the lighter parts on the motherboard before installing
 <h2 style="text-align: center">Installing GPU</h2>
 
 <img src="./Imgs/installing-gpu.jpg" alt="Installing GPU" width="500" height="500" style="position: relative; left: 23%;">
-## Final Product 
 
 <h2 style="text-align: center">Final Product</h2>
 
