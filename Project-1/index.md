@@ -54,6 +54,9 @@ I learn to install all of the lighter parts on the motherboard before installing
 
 <img src= "./Imgs/windows-OS.jpg" alt = "Installing Windows" width= 300 height= 300>
 
+[To go back to the main page](../index.md)
+
+### Contact Information:
 <a href="https://www.linkedin.com/in/dylanparay/" target="_blank">
 <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="Linkedin Account" width= 40 height= 40></a>     <a href="mailto: Dylan.Paray19@gmail.com" target="_blank">
 <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" alt="Gmail Account" width= 40 height= 40></a>
