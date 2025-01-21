@@ -10,7 +10,6 @@ This project will present some of the steps I took to build the PC via screensho
 
 ## PC Part List
 
-<img src= "./Imgs/installing-motherboard-to-case" alt = "Installing Motherboard to Case" width= 300 height= 300>
 
 ## Installing the CPU 
 
@@ -18,5 +17,5 @@ This project will present some of the steps I took to build the PC via screensho
 
 ## Installing the Motherboard to the Case
 
-<img src= "./Imgs/installing-motherboard-to-case" alt = "Installing Motherboard to Case" width= 300 height= 300>
+<img src= "./Imgs/installing-motherboard-to-case.jpg" alt = "Installing Motherboard to Case" width= 300 height= 300>
 
