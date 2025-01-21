@@ -8,7 +8,7 @@ This project will present some of the steps I took to build the PC via screensho
 [To go back to the main page](../index.md)
 
 
-## PC Part List
+<h2 class=.img>Pc Part List</h2>
 
 <img src= "./Imgs/pc-Part-List.png" alt = "PC Part List" width= 300 height= 300>
 
