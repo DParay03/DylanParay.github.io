@@ -10,7 +10,7 @@ This project will present some of the steps I took to build the PC via screensho
 
 <h2 style="text-align: center">PC Part List</h2>
 
-<img src= "./Imgs/pc-Part-List.png" alt = "PC Part List" width= 500 height= 500>
+<img src="./Imgs/pc-Part-List.png" alt="PC Part List" width="500" height="500" style="position: relative; left: 20%;">
 
 ## Workstation
 
