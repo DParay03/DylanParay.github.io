@@ -12,25 +12,25 @@ This project will present some of the steps I took to build the PC via screensho
 
 <img src="./Imgs/pc-Part-List.png" alt="PC Part List" width="500" height="500" style="position: relative; left: 20%;">
 
-## Workstation
+<h2 style="text-align: center">Workstation</h2>
 
-<img src= "./Imgs/workstation.jpg" alt = "Workstation" width= 300 height= 300>
+<img src="./Imgs/workstation.jpg" alt="" width="500" height="500" style="position: relative; left: 20%;">
 
 ## Installing the CPU 
 
-<img src= "./Imgs/installing-cpu.jpg" alt = "Installing CPU" width= 300 height= 300>
+<img src="./Imgs/installing-cpu.jpg" alt="Installing CPU" width="500" height="500" style="position: relative; left: 20%;">
 
 ## Installing the Motherboard to the Case
 
-<img src= "./Imgs/installing-motherboard-to-case.jpg" alt = "Installing Motherboard to Case" width= 300 height= 300>
+<img src="./Imgs/installing-motherboard-to-case.jpg" alt="Installing Motherboard to the Case" width="500" height="500" style="position: relative; left: 20%;">
 
 ## Installing the Cooling
 
-<img src= "./Imgs/installing-cooling.jpg" alt = "Installing CPU Cooling" width= 300 height= 300>
+<img src="./Imgs/installing-cooling.jpg" alt="Instaling the Cooling" width="500" height="500" style="position: relative; left: 20%;">
 
 ## Installing the RAM
 
-<img src= "./Imgs/installing-ram.jpg" alt = "Installing RAM" width= 300 height= 300>
+<img src="./Imgs/installing-ram.jpg" alt="Installing the RAM" width="500" height="500" style="position: relative; left: 20%;">
 
 Note: If I were to build another PC, I would have install the the CPU, SSD, and the RAM before installing it in the motherboard. 
 
@@ -40,19 +40,18 @@ I learn to install all of the lighter parts on the motherboard before installing
 
 ## Installing the GPU
 
-<img src= "./Imgs/installing-gpu.jpg" alt = "Installing GPU" width= 300 height= 300>
-
+<img src="./Imgs/installing-gpu.jpg" alt="Installing GPU" width="500" height="500" style="position: relative; left: 20%;">
 ## Final Product 
 
-<img src= "./Imgs/final-product.jpg" alt = "Final Product" width= 300 height= 300>
+<img src="./Imgs/final-prodcut.jpg" alt="Final Product" width="500" height="500" style="position: relative; left: 20%;">
 
 ## Booting into UEFI
 
-<img src= "./Imgs/UEFI.jpg" alt = "Getting into the UEFI" width= 300 height= 300>
+<img src="./Imgs/UEFI.jpg" alt="PC Part List" width="500" height="500" style="position: relative; left: 20%;">
 
 ## Installing Windows
 
-<img src= "./Imgs/windows-OS.jpg" alt = "Installing Windows" width= 300 height= 300>
+<img src="./Imgs/windows-OS.jpg" alt="Installing Windows" width="500" height="500" style="position: relative; left: 20%;">
 
 [To go back to the main page](../index.md)
 
